@@ -1,19 +1,22 @@
-# Visualizing-Covid-19-with-Folium
+# Visualizing-Covid-19-with-Folium 
 Using Folium, I visualize real-time Covid-19(Indian) stats scraped from [mygov.in](https://www.mygov.in/corona-data/covid19-statewise-status/) and display it on an interactive map.
   ### Classic
   <p align="center">
-  <img src="./assets/map1.jpg" width="500" height="255">
+  <img src="./assets/map1.jpg" width="1000" height="500">
   </p>
-   ### Stamen Toner
+  
+  ### Stamen Toner
   <p align="center">
-  <img src="./assets/map2.jpg" width="500" height="255">
+  <img src="./assets/map2.jpg" width="1000" height="500">
   </p>
+  
   ### Stamen Terrain
   <p align="center">
-  <img src="./assets/map3.jpg" width="500" height="255">
+  <img src="./assets/map3.jpg" width="1000" height="500">
   </p>
+  
   ### Snapshot of real-time data on the map
-  <img src="./assets/interact.jpg" width="255" height="255">
+  <img src="./assets/interact.jpg" width="455" height="455">
 
 
 
